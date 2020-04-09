@@ -1,0 +1,11 @@
+D:\Git\geocaching-lotto\GeocachingLotto\GeocachingLotto\bin\Debug\netcoreapp3.0\GeocachingLotto.exe
+D:\Git\geocaching-lotto\GeocachingLotto\GeocachingLotto\bin\Debug\netcoreapp3.0\GeocachingLotto.deps.json
+D:\Git\geocaching-lotto\GeocachingLotto\GeocachingLotto\bin\Debug\netcoreapp3.0\GeocachingLotto.runtimeconfig.json
+D:\Git\geocaching-lotto\GeocachingLotto\GeocachingLotto\bin\Debug\netcoreapp3.0\GeocachingLotto.runtimeconfig.dev.json
+D:\Git\geocaching-lotto\GeocachingLotto\GeocachingLotto\bin\Debug\netcoreapp3.0\GeocachingLotto.dll
+D:\Git\geocaching-lotto\GeocachingLotto\GeocachingLotto\bin\Debug\netcoreapp3.0\GeocachingLotto.pdb
+D:\Git\geocaching-lotto\GeocachingLotto\GeocachingLotto\obj\Debug\netcoreapp3.0\GeocachingLotto.csprojAssemblyReference.cache
+D:\Git\geocaching-lotto\GeocachingLotto\GeocachingLotto\obj\Debug\netcoreapp3.0\GeocachingLotto.AssemblyInfoInputs.cache
+D:\Git\geocaching-lotto\GeocachingLotto\GeocachingLotto\obj\Debug\netcoreapp3.0\GeocachingLotto.AssemblyInfo.cs
+D:\Git\geocaching-lotto\GeocachingLotto\GeocachingLotto\obj\Debug\netcoreapp3.0\GeocachingLotto.dll
+D:\Git\geocaching-lotto\GeocachingLotto\GeocachingLotto\obj\Debug\netcoreapp3.0\GeocachingLotto.pdb
